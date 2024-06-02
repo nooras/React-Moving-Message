@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Moving Message Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Moving Message has a below features
+
+- Type a Message in a field
+- Change text color
+- Change Bacground Color
+- Change font type 
+- Enter in full screen to view type message
 
 ## Available Scripts
 
