@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Moving Message has a below features
+## Moving Message has a below features 
+Live:  https://moving-message.netlify.app/
 
 - Type a Message in a field
 - Change text color
